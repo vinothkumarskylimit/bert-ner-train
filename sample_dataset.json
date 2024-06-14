@@ -1,0 +1,144 @@
+{
+  "train": [
+    {
+      "id": [0],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [1],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [2],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [3],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [4],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [5],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [6],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [7],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [8],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    }
+  ],
+  "test": [
+    {
+      "id": [0],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [1],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [2],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [3],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [4],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [5],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [6],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [7],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [8],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    }
+  ],
+  "validation": [
+    {
+      "id": [0],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [1],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [2],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [3],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [4],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [5],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [6],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [7],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    },
+    {
+      "id": [8],
+      "tokens": ["EU", "rejects", "German", "call", "to", "boycott", "British", "lamb", "."],
+      "ner_tags": [3, 0, 7, 0, 0, 0, 7, 0, 0]
+    }
+  ]
+
+}
