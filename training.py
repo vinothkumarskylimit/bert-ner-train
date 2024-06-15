@@ -7,8 +7,8 @@ from datasets import DatasetDict, Dataset
 import tempfile
 import os
 import zipfile
-import streamlit as st
 from io import BytesIO
+
 label_list = ['O', 'B-PER', 'I-PER', 'B-ORG', 'I-ORG', 'B-LOC', 'I-LOC', 'B-MISC', 'I-MISC']
 
 # Define Streamlit app layout
@@ -78,20 +78,19 @@ if dataset_file is not None:
         )
         
         st.text('Training started...')
-        
+        progress_bar = st.progress(0)
 
         for epoch in range(num_epoch):
             epoch_text = ""
             epoch_text = f'Epoch {epoch + 1}/{num_epoch}'
             st.text(epoch_text)
             trainer.train()
+            progress_bar.progress((epoch + 1) / num_epoch)  # Update progress bar
             st.text('Epoch completed.')
         output_folder = 'model/'
         dynamic_output_path = os.path.join(output_folder, output_model)
         model.save_pretrained(dynamic_output_path)
         tokenizer.save_pretrained('model/tokenizer')
-        
-        # output_folder = 'model/'  # Define the folder containing the model files
 
         # Define the name for the zip file
         zip_file_name = 'model.zip'
